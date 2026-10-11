@@ -211,96 +211,6 @@ My favorite part?
 
 ---
 
-
-### 📈 Competitive Programming Intelligence
-
-I'm interested in going beyond:
-
-> "You solved 500 problems."
-
-towards:
-
-> **"What should you solve next?"**
-
-The idea is to analyze:
-
-* solved problems
-* contest performance
-* difficulty distribution
-* topic weaknesses
-* rating progression
-* time spent
-* failed attempts
-* virtual contests
-
-and turn that into an actual **personal CP training system**.
-
----
-
-### 🧮 Algorithm Analyzer
-
-A project direction focused on making algorithms less of a black box.
-
-Think:
-
-```text
-INPUT
-  ↓
-Algorithm
-  ↓
-Execution
-  ├── Time
-  ├── Memory
-  ├── Operations
-  └── Visualization
-  ↓
-ANALYSIS
-```
-
-Because knowing *what* an algorithm does is one thing.
-
-Knowing **why it behaves that way** is another.
-
----
-
-### 🤖 ML × Full Stack
-
-I'm currently learning Machine Learning from the ground up.
-
-Not:
-
-```python
-model.fit(X, y)
-```
-
-and then pretending I understand ML.
-
-More like:
-
-```text
-Mathematics
-    ↓
-Statistics
-    ↓
-Model
-    ↓
-Loss Function
-    ↓
-Optimization
-    ↓
-Evaluation
-    ↓
-Implementation
-    ↓
-Production
-```
-
-My current approach is:
-
-**implement from scratch → understand → use libraries → integrate into products**
-
----
-
 # 🛠️ Tech Stack
 
 <div align="center">
@@ -325,28 +235,6 @@ My current approach is:
 
 ---
 
-# 🧪 Currently Learning
-
-```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│  ██████╗ ██████╗                                           │
-│  ██╔══██╗██╔══██╗                                          │
-│  ██████╔╝██████╔╝     MACHINE LEARNING                    │
-│  ██╔═══╝ ██╔═══╝                                           │
-│  ██║     ██║                                               │
-│  ╚═╝     ╚═╝                                               │
-│                                                            │
-│  Linear Regression        ███████████████░░░                │
-│  Classification           ████████████░░░░░                │
-│  Model Evaluation         ███████████░░░░░░                │
-│  Optimization             ██████████░░░░░░░                │
-│  Deep Learning            █████░░░░░░░░░░░░                │
-│  Production ML            ███░░░░░░░░░░░░░░                │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
-
 Also exploring:
 
 `System Design` · `Backend Architecture` · `Linux` · `Docker` · `Computer Systems`
@@ -367,25 +255,6 @@ Also exploring:
 </div>
 
 <br />
-
-My LeetCode profile currently shows particularly strong exposure to:
-
-```text
-Arrays              ████████████████████████████████
-Hash Tables         ████████████
-Math                ███████████
-Strings             █████████████
-Dynamic Programming ████████
-DFS                 ██████
-Divide & Conquer    ██
-Backtracking        ██
-```
-
-The goal isn't to maximize a number.
-
-The goal is to eventually look at a new problem and think:
-
-> **"I've seen the structure hiding inside this before."**
 
 ---
 
@@ -447,45 +316,6 @@ The goal is to eventually look at a new problem and think:
 
 ---
 
-# 🎯 Current Mission
-
-```text
-                    ┌───────────────────────────┐
-                    │        IIT MANDI          │
-                    │      COMPUTER SCIENCE     │
-                    └─────────────┬─────────────┘
-                                  │
-                 ┌────────────────┼────────────────┐
-                 │                │                │
-                 ▼                ▼                ▼
-              DSA / CP         SOFTWARE           ML
-                 │             ENGINEERING         │
-                 │                │                │
-                 ▼                ▼                ▼
-             ICPC / CF       REAL PRODUCTS     INTELLIGENT
-             PROBLEM          & SYSTEMS          SYSTEMS
-             SOLVING
-                 │                │                │
-                 └────────────────┼────────────────┘
-                                  ▼
-                         ┌─────────────────┐
-                         │   BETTER ENGINEER│
-                         └─────────────────┘
-```
-
-### 2026 → 2027
-
-* ⚔️ Push competitive programming seriously
-* 🧠 Strengthen DSA fundamentals
-* 🌐 Build production-quality full-stack projects
-* 🤖 Become genuinely competent at ML
-* 🐧 Go deeper into Linux and systems
-* 🏗️ Build projects worth talking about in an interview
-* 🚀 Contribute to open source
-* 🧩 Prepare for ICPC-style problem solving
-* 📈 Keep compounding
-
----
 
 # 🌐 Find Me
 
